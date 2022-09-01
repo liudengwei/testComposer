@@ -1,0 +1,8 @@
+{
+    "name": "liudengwei/composer-package-demo",
+    "autoload": {
+        "psr-4": {
+            "liudengwei\\ComposerPackageDemo\\": "src/"
+        }
+    }
+}    
