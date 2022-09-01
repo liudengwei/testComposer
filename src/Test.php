@@ -5,6 +5,6 @@ class Test
 {
     public function hello()
     {
-        echo 'six six six', PHP_EOL;
+        echo 'six six six, hello world', PHP_EOL;
     }
 }
